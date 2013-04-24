@@ -1,0 +1,5 @@
+This is where all of my code for project euler will reside. Each question on project Euler will have a corresponding 
+file which will hold the code that correctly answered the question. If the code requires more then one file to answer
+then a sub folder will be created for that question. The highest numbered question will most likely be unfinished.
+
+All code will be done in the latest version of python (starting with python 3.2). My goal is to attempt to finish as many of the problems as possible by the end of 2014. I would like to do a question a day, if not more.
